@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3{
+    width: 800px;
+    margin: 0 auto;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+ul {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main {
+    color: burlywood;
+    background-color: brown;
+}
+
+.A {
+    border: 5px solid black;
+    padding: 0 10px 20px 30px; 
+}
